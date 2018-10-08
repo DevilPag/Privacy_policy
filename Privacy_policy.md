@@ -1,6 +1,6 @@
 # It's Attitude Privacy_policy
 
-This page constitutes the Privacy Policy for our PAC developer's mobile applications.
+This page constitutes the Privacy Policy for our PAC developer's mobile applications It's Attitude.
 When you use PAC developer's apps you will inevitably share some information with us. Since your privacy means very much to us, 
 we want you to know more about the information we collect, how we use it.
 
